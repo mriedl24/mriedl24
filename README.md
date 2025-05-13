@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Matthew Riedl 👋
 
-<!--
-**mriedl24/mriedl24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I am a senior at The University of Iowa, double majoring in Finance and Business Analytics
+- 💼 Interested in investment analysis, financial strategy, and asset management
+- 📍 Based in Iowa City, originally from West Des Moines
+
+---
+
+## Skills
+
+- **Programming:** Python, SQL
+- **Tools:** Excel, Tableau, Power BI, Salesforce, Microsoft Office, Git
+
+---
